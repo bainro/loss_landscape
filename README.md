@@ -1,5 +1,9 @@
 # Visualizing the Loss Landscape of Neural Nets
 
+This is not my work, this is a lazy man's fork of the repo here:
+https://github.com/tomgoldstein/loss-landscape 
+
+I've added a bunch though, not just a simple copy and paste.
 
 This repository contains the PyTorch code for the paper
 > Hao Li, Zheng Xu, Gavin Taylor, Christoph Studer and Tom Goldstein. [*Visualizing the Loss Landscape of Neural Nets*](https://arxiv.org/abs/1712.09913). NIPS, 2018.
